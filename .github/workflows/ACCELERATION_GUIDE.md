@@ -365,7 +365,7 @@ error: could not find OpenBLAS library
 
 ## Related Documentation
 
-- [CLAUDE.md](../../CLAUDE.md) - Project overview with build commands
+- [AGENTS.md](../../AGENTS.md) - Project overview with build commands
 - [WORKFLOWS_OVERVIEW.md](WORKFLOWS_OVERVIEW.md) - All workflows comparison
 - [README_DEVTEST.md](README_DEVTEST.md) - DevTest workflow guide
 - [Whisper.cpp GitHub](https://github.com/ggerganov/whisper.cpp) - Upstream project
